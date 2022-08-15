@@ -1,3 +1,1 @@
 Hello world
-
-mencoba menambahkan deskripsi pada file hello.txt
